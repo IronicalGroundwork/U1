@@ -1,0 +1,171 @@
+U1:
+|   config.php
+|   
++---app
+|   +---controllers
+|   |       ApiController.php
+|   |       AuthController.php
+|   |       DashboardController.php
+|   |       MarketplaceController.php
+|   |       MovementController.php
+|   |       ProductController.php
+|   |       ProfileController.php
+|   |       SettingsController.php
+|   |       WarehouseController.php
+|   |       
+|   +---helpers
+|   |       AuthHelper.php
+|   |       FileUploaderHelper.php
+|   |       MessageHelper.php
+|   |       
+|   +---models
+|   |       Dashboard.php
+|   |       Database.php
+|   |       Marketplace.php
+|   |       Movement.php
+|   |       Product.php
+|   |       Seller.php
+|   |       Settings.php
+|   |       Warehouse.php
+|   |       
+|   +---services
+|   |       ApiClient.php
+|   |       OrderProcessor.php
+|   |       OzonService.php
+|   |       WildberriesService.php
+|   |       YandexService.php
+|   |       
+|   \---views
+|       +---auth
+|       |       forgot-password.php
+|       |       login.php
+|       |       register.php
+|       |       
+|       +---dashboard
+|       |       index.php
+|       |       
+|       +---layouts
+|       |       footer.php
+|       |       head.php
+|       |       navbar.php
+|       |       scripts.php
+|       |       sidebar.php
+|       |       
+|       +---marketplaces
+|       |       index.php
+|       |       
+|       +---movements
+|       |       index.php
+|       |       
+|       +---products
+|       |       index.php
+|       |       
+|       +---profile
+|       |       index.php
+|       |       
+|       +---settings
+|       |       index.php
+|       |       
+|       \---warehouses
+|               index.php
+|               
++---logs
++---public
+|   |   index.php
+|   |   
+|   \---assets
+|       +---css
+|       |       styles.css
+|       |       
+|       +---fonts
+|       |   \---metropolis
+|       |           Metropolis-Black.otf
+|       |           Metropolis-BlackItalic.otf
+|       |           Metropolis-Bold.otf
+|       |           Metropolis-BoldItalic.otf
+|       |           Metropolis-ExtraBold.otf
+|       |           Metropolis-ExtraBoldItalic.otf
+|       |           Metropolis-ExtraLight.otf
+|       |           Metropolis-ExtraLightItalic.otf
+|       |           Metropolis-Light.otf
+|       |           Metropolis-LightItalic.otf
+|       |           Metropolis-Medium.otf
+|       |           Metropolis-MediumItalic.otf
+|       |           Metropolis-Regular.otf
+|       |           Metropolis-RegularItalic.otf
+|       |           Metropolis-SemiBold.otf
+|       |           Metropolis-SemiBoldItalic.otf
+|       |           Metropolis-Thin.otf
+|       |           Metropolis-ThinItalic.otf
+|       |           SIL Open Font License.txt
+|       |           
+|       +---img
+|       |   |   favicon.png
+|       |   |   
+|       |   +---backgrounds
+|       |   |       bg-angles.svg
+|       |   |       bg-pattern-shapes.png
+|       |   |       bg-waves.svg
+|       |   |       
+|       |   +---demo
+|       |   |   |   demo-logo.svg
+|       |   |   |   demo-ocean-lg.jpg
+|       |   |   |   demo-ocean-sm.jpg
+|       |   |   |   pug.svg
+|       |   |   |   user-placeholder.svg
+|       |   |   |   
+|       |   |   \---cards
+|       |   |           card-img-bottom.jpg
+|       |   |           card-img-left.jpg
+|       |   |           card-img-overlay.jpg
+|       |   |           card-img-right.jpg
+|       |   |           card-img-top.jpg
+|       |   |           
+|       |   \---illustrations
+|       |       |   400-error-bad-request.svg
+|       |       |   401-error-unauthorized.svg
+|       |       |   403-error-forbidden.svg
+|       |       |   404-error-with-a-cute-animal.svg
+|       |       |   404-error.svg
+|       |       |   500-internal-server-error.svg
+|       |       |   503-error-service-unavailable.svg
+|       |       |   504-error-gateway-timeout.svg
+|       |       |   at-work.svg
+|       |       |   browser-stats.svg
+|       |       |   CREDITS.md
+|       |       |   data-report.svg
+|       |       |   ozon.svg
+|       |       |   problem-solving.svg
+|       |       |   processing.svg
+|       |       |   statistics.svg
+|       |       |   team-spirit.svg
+|       |       |   telegram.svg
+|       |       |   wildberries.svg
+|       |       |   windows.svg
+|       |       |   yandex.svg
+|       |       |   
+|       |       \---profiles
+|       |               680a6a78920b4.jpg
+|       |               682219f10a3e4.jpg
+|       |               6828349b2829e.jpg
+|       |               profile-1.png
+|       |               profile-2.png
+|       |               profile-3.png
+|       |               profile-4.png
+|       |               profile-5.png
+|       |               profile-6.png
+|       |               
+|       \---js
+|               dashboard-charts.js
+|               litepicker.js
+|               markdown.js
+|               movements.js
+|               products.js
+|               scripts.js
+|               toasts.js
+|               warehouses.js
+|               
+\---push
+        ozon.php
+        yandex.php
+        

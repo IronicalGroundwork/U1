@@ -1,0 +1,48 @@
+[21-May-2025 15:28:59 Europe/Berlin] Запись в лог
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  Creation of dynamic property Settings::$db is deprecated in D:\xampp\htdocs\u2\app\models\Settings.php on line 6
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  Creation of dynamic property SettingsController::$settingsModel is deprecated in D:\xampp\htdocs\u2\app\controllers\SettingsController.php on line 12
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  Creation of dynamic property SettingsController::$sellerId is deprecated in D:\xampp\htdocs\u2\app\controllers\SettingsController.php on line 13
+[21-May-2025 15:28:59 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_1 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 7
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 7
+[21-May-2025 15:28:59 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_2 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 11
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 11
+[21-May-2025 15:28:59 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_3 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 16
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 16
+[21-May-2025 15:28:59 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_4 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 21
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 21
+[21-May-2025 15:28:59 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_5 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 25
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 25
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  Function strftime() is deprecated in D:\xampp\htdocs\u2\app\views\settings\index.php on line 21
+[21-May-2025 15:28:59 Europe/Berlin] PHP Deprecated:  Function strftime() is deprecated in D:\xampp\htdocs\u2\app\views\settings\index.php on line 21
+[21-May-2025 15:29:11 Europe/Berlin] Запись в лог
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property Settings::$db is deprecated in D:\xampp\htdocs\u2\app\models\Settings.php on line 6
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property SettingsController::$settingsModel is deprecated in D:\xampp\htdocs\u2\app\controllers\SettingsController.php on line 12
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  Creation of dynamic property SettingsController::$sellerId is deprecated in D:\xampp\htdocs\u2\app\controllers\SettingsController.php on line 13
+[21-May-2025 15:29:11 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_1 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 7
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 7
+[21-May-2025 15:29:11 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_2 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 11
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 11
+[21-May-2025 15:29:11 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_3 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 16
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 16
+[21-May-2025 15:29:11 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_4 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 21
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 21
+[21-May-2025 15:29:11 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_5 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 25
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 25
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  Function strftime() is deprecated in D:\xampp\htdocs\u2\app\views\settings\index.php on line 21
+[21-May-2025 15:29:11 Europe/Berlin] PHP Deprecated:  Function strftime() is deprecated in D:\xampp\htdocs\u2\app\views\settings\index.php on line 21
+[21-May-2025 15:29:22 Europe/Berlin] Запись в лог
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  Creation of dynamic property Settings::$db is deprecated in D:\xampp\htdocs\u2\app\models\Settings.php on line 6
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  Creation of dynamic property SettingsController::$settingsModel is deprecated in D:\xampp\htdocs\u2\app\controllers\SettingsController.php on line 12
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  Creation of dynamic property SettingsController::$sellerId is deprecated in D:\xampp\htdocs\u2\app\controllers\SettingsController.php on line 13
+[21-May-2025 15:29:22 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_1 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 7
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 7
+[21-May-2025 15:29:22 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_2 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 11
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 11
+[21-May-2025 15:29:22 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_3 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 16
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 16
+[21-May-2025 15:29:22 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_4 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 21
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 21
+[21-May-2025 15:29:22 Europe/Berlin] PHP Warning:  Undefined variable $sidenav_link_5 in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 25
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in D:\xampp\htdocs\u2\app\views\layouts\sidebar.php on line 25
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  Function strftime() is deprecated in D:\xampp\htdocs\u2\app\views\settings\index.php on line 21
+[21-May-2025 15:29:22 Europe/Berlin] PHP Deprecated:  Function strftime() is deprecated in D:\xampp\htdocs\u2\app\views\settings\index.php on line 21
